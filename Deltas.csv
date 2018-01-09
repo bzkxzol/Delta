@@ -1,0 +1,41 @@
+FIX time: 09-01-2018 16:26:53.937, PFIX time: 09-01-2018 16:26:59.120, Delta: 5183ms, Event type: Market/Limit placed
+Error, missing event: Modify reffid1515511614111 reffid1515511614111 300000 400000
+FIX time: 09-01-2018 16:26:54.440, PFIX time: 09-01-2018 16:27:04.038, Delta: 9598ms, Event type: Modify
+FIX time: 09-01-2018 16:26:54.692, PFIX time: 09-01-2018 16:27:04.096, Delta: 9404ms, Event type: Partial filled
+FIX time: 09-01-2018 16:26:54.943, PFIX time: 09-01-2018 16:27:04.120, Delta: 9177ms, Event type: Modify
+FIX time: 09-01-2018 16:26:55.194, PFIX time: 09-01-2018 16:27:04.125, Delta: 8931ms, Event type: Partial filled
+Error, missing event: Canceled reffid1515511614111 reffid1515511614111 1000000 300000
+FIX time: 09-01-2018 16:26:55.696, PFIX time: 09-01-2018 16:27:09.019, Delta: 13323ms, Event type: Market/Limit placed
+FIX time: 09-01-2018 16:26:55.947, PFIX time: 09-01-2018 16:27:14.029, Delta: 18082ms, Event type: Market filled, close position
+===================================================End of iteration #1==================================================
+FIX time: 09-01-2018 16:26:56.199, PFIX time: 09-01-2018 16:27:19.022, Delta: 22823ms, Event type: Market/Limit placed
+Error, missing event: Modify reffid1515511616375 reffid1515511616375 300000 400000
+FIX time: 09-01-2018 16:26:56.700, PFIX time: 09-01-2018 16:27:24.026, Delta: 27326ms, Event type: Modify
+FIX time: 09-01-2018 16:26:56.951, PFIX time: 09-01-2018 16:27:24.030, Delta: 27079ms, Event type: Partial filled
+FIX time: 09-01-2018 16:26:57.202, PFIX time: 09-01-2018 16:27:24.034, Delta: 26832ms, Event type: Modify
+FIX time: 09-01-2018 16:26:57.452, PFIX time: 09-01-2018 16:27:24.037, Delta: 26585ms, Event type: Partial filled
+Error, missing event: Canceled reffid1515511616375 reffid1515511616375 1000000 300000
+FIX time: 09-01-2018 16:26:57.955, PFIX time: 09-01-2018 16:27:29.027, Delta: 31072ms, Event type: Market/Limit placed
+FIX time: 09-01-2018 16:26:58.206, PFIX time: 09-01-2018 16:27:34.029, Delta: 35823ms, Event type: Market filled, close position
+===================================================End of iteration #2==================================================
+FIX time: 09-01-2018 16:26:58.457, PFIX time: 09-01-2018 16:27:39.029, Delta: 40572ms, Event type: Market/Limit placed
+Error, missing event: Modify reffid1515511618632 reffid1515511618632 300000 400000
+FIX time: 09-01-2018 16:26:58.957, PFIX time: 09-01-2018 16:27:44.034, Delta: 45077ms, Event type: Modify
+FIX time: 09-01-2018 16:26:59.208, PFIX time: 09-01-2018 16:27:44.038, Delta: 44830ms, Event type: Partial filled
+FIX time: 09-01-2018 16:26:59.458, PFIX time: 09-01-2018 16:27:44.042, Delta: 44584ms, Event type: Modify
+FIX time: 09-01-2018 16:26:59.709, PFIX time: 09-01-2018 16:27:44.045, Delta: 44336ms, Event type: Partial filled
+Error, missing event: Canceled reffid1515511618632 reffid1515511618632 1000000 300000
+FIX time: 09-01-2018 16:27:00.211, PFIX time: 09-01-2018 16:27:49.035, Delta: 48824ms, Event type: Market/Limit placed
+FIX time: 09-01-2018 16:27:00.461, PFIX time: 09-01-2018 16:27:54.036, Delta: 53575ms, Event type: Market filled, close position
+===================================================End of iteration #3==================================================
+FIX time: 09-01-2018 16:27:00.712, PFIX time: 09-01-2018 16:27:59.037, Delta: 58325ms, Event type: Market/Limit placed
+Error, missing event: Modify reffid1515511620888 reffid1515511620888 300000 400000
+FIX time: 09-01-2018 16:27:01.214, PFIX time: 09-01-2018 16:28:04.039, Delta: 62825ms, Event type: Modify
+FIX time: 09-01-2018 16:27:01.464, PFIX time: 09-01-2018 16:28:04.042, Delta: 62578ms, Event type: Partial filled
+FIX time: 09-01-2018 16:27:01.715, PFIX time: 09-01-2018 16:28:04.046, Delta: 62331ms, Event type: Modify
+FIX time: 09-01-2018 16:27:01.965, PFIX time: 09-01-2018 16:28:04.050, Delta: 62085ms, Event type: Partial filled
+Error, missing event: Canceled reffid1515511620888 reffid1515511620888 1000000 300000
+FIX time: 09-01-2018 16:27:02.467, PFIX time: 09-01-2018 16:28:09.041, Delta: 66574ms, Event type: Market/Limit placed
+FIX time: 09-01-2018 16:27:02.717, PFIX time: 09-01-2018 16:28:14.042, Delta: 71325ms, Event type: Market filled, close position
+===================================================End of iteration #4==================================================
+FIX time: 09-01-2018 16:27:02.968, PFIX time: 09-01-2018 16:28:19.043, Delta: 76075ms, Event type: Market/Limit placed
